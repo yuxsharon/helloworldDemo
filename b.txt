@@ -1,2 +1,2 @@
-this is b£¬
+this is b
 just test
